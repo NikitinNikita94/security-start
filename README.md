@@ -9,11 +9,12 @@ Complete login registration backend system using Spring Boot.
 
 
 ## Diagram
-<img src="file:///src/main/resources/static/img/Снимок экрана 2022-03-22 195445.png" />
+![alt text](/src/of/src/main/resources/static/img/Снимок экрана 2022-03-22 195445.png#alignleft «title»)
+<img src="file:/// />
 
 ## Email verification link with expiry
-<img src="file:///src/main/resources/static/img/Снимок экрана 2022-03-22 195415.png" />
+![alt text](/src/of/src/main/resources/static/img/Снимок экрана 2022-03-22 195415.png#alignleft «title»)
 
 ## Example requests
 ### Postman
-<img src="file:///src/main/resources/static/img/Снимок экрана 2022-03-22 195510.png" />
+![alt text](/src/of/src/main/resources/static/img/Снимок экрана 2022-03-22 195510.png#alignleft «title»)
